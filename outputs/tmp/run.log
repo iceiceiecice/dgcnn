@@ -1,0 +1,4 @@
+Namespace(batch_size=8, class_choice='airplane', dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='tmp', k=40, lr=0.001, model='dgcnn', model_path='pretrained/model.partseg.airplane.t7', momentum=0.9, no_cuda=False, num_points=10000, scheduler='cos', seed=1, test_batch_size=1, use_sgd=True, visu='airplane', visu_format='ply')
+Using GPU : 0 from 1 devices
+Namespace(batch_size=8, class_choice='airplane', dataset='shapenetpart', dropout=0.5, emb_dims=1024, epochs=200, eval=True, exp_name='tmp', k=40, lr=0.001, model='dgcnn', model_path='pretrained/model.partseg.airplane.t7', momentum=0.9, no_cuda=False, num_points=10000, scheduler='cos', seed=1, test_batch_size=1, use_sgd=True, visu='airplane', visu_format='ply')
+Using GPU : 0 from 1 devices
